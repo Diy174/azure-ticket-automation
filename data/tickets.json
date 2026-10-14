@@ -1,0 +1,36 @@
+
+[
+  {"ticket_id":"D001","message":"I was charged twice for my monthly subscription","category":"Billing"},
+  {"ticket_id":"D002","message":"Please help me get a refund for my last payment","category":"Billing"},
+  {"ticket_id":"D003","message":"My invoice has the wrong amount","category":"Billing"},
+  {"ticket_id":"D004","message":"My credit card payment failed","category":"Billing"},
+  {"ticket_id":"D005","message":"I need a copy of my payment receipt","category":"Billing"},
+  {"ticket_id":"D006","message":"The subscription renewal fee is incorrect","category":"Billing"},
+  {"ticket_id":"D007","message":"I was charged after cancelling my plan","category":"Billing"},
+  {"ticket_id":"D008","message":"My refund has not arrived yet","category":"Billing"},
+  {"ticket_id":"D009","message":"Please explain the tax on my invoice","category":"Billing"},
+  {"ticket_id":"D010","message":"I cannot update my billing address","category":"Billing"},
+
+  {"ticket_id":"D011","message":"The application crashes when I open settings","category":"Technical"},
+  {"ticket_id":"D012","message":"I receive an error while uploading a file","category":"Technical"},
+  {"ticket_id":"D013","message":"The dashboard is not working correctly","category":"Technical"},
+  {"ticket_id":"D014","message":"The page loads very slowly","category":"Technical"},
+  {"ticket_id":"D015","message":"My report download failed","category":"Technical"},
+  {"ticket_id":"D016","message":"The search feature returns an error","category":"Technical"},
+  {"ticket_id":"D017","message":"I see a bug when saving my profile","category":"Technical"},
+  {"ticket_id":"D018","message":"The application shows a blank screen","category":"Technical"},
+  {"ticket_id":"D019","message":"The server is down and our service is unavailable","category":"Technical"},
+  {"ticket_id":"D020","message":"Notifications are not working","category":"Technical"},
+
+  {"ticket_id":"D021","message":"I forgot my password and cannot log in","category":"Access"},
+  {"ticket_id":"D022","message":"My account is locked","category":"Access"},
+  {"ticket_id":"D023","message":"Please help me reset my password","category":"Access"},
+  {"ticket_id":"D024","message":"I cannot access my account","category":"Access"},
+  {"ticket_id":"D025","message":"The login verification code never arrives","category":"Access"},
+  {"ticket_id":"D026","message":"I need access to the team workspace","category":"Access"},
+  {"ticket_id":"D027","message":"My login credentials are not accepted","category":"Access"},
+
+  {"ticket_id":"D028","message":"How can I change my display name","category":"General"},
+  {"ticket_id":"D029","message":"I have a question about the available features","category":"General"},
+  {"ticket_id":"D030","message":"I would like information about your support hours","category":"General"}
+]
